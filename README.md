@@ -18,3 +18,4 @@ This Python script is a basic File Integrity Checker that helps detect unauthori
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/ea768fd5-44df-4b16-b9fd-cec4c64e3fea)
